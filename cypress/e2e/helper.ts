@@ -1,0 +1,4 @@
+export const simplePdfText = '\n\nHello darkness my old friend'
+export const incorrectPftText = 'yo it should not be equal'
+export const complexPdfText = '\n\nCOMPANY NAME \n \nAttention: Trenz Pruca \nTitle \nCompany Name \n432 New Street \nAnytown, County, Postcode \nDate: 05/08/2022 \nProject Title: Project Name \nProject Description: Description Here \nP.O. Number: 12345 \nInvoice Number: 67890 \nTerms: 30 Days \nThank you for your business. It’s a pleasure to work with you on your project. \nYour next order will ship in 30 days. \nYours sincerely, \nUrna Semper\nDescriptionQuantityUnit PriceCost\nItem 155€100,00€5 500,00\nItem 213€90,00€1 170,00\nItem 325€50,00€1 250,00\nSubtotal€7 920,00\nTax20,00 %€1 584,00\nTotal€9 504,00\n1\nINVOICE \n01234 567 890 \nno_reply@example.com \n123 High Street \nAnytown, County, \nPostcode'
+
